@@ -2,7 +2,7 @@
 machine learning and deep learning
 
 
-분류형 데이터의 분석 모델
+분류형 데이터의 분석 모델 - 5주차
 1. DecisionTreeClassifier
 2. SVC, LinearSVC
 3. LogisticRegression
